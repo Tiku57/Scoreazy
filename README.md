@@ -11,8 +11,7 @@ The project is built using a single HTML file with Tailwind CSS for styling and 
 -   **Subjects Covered:** A dedicated section listing the major subjects offered in the bootcamp (Maths, Science, Social Science, English, Physics, Chemistry, Biology).
 -   **Testimonials:** Features testimonials from both parents and students to build trust and credibility.
 -   **Call-to-Action (CTA):** Strategic call-to-action buttons placed throughout the page to encourage users to book a free demo.
--   **FAQ Section:** (Based on the provided screenshots, this section is part of the final design but not included in the HTML code provided. This would be a great addition to the existing code.)
--   **Responsive Design:** The layout is designed to be fully responsive and optimized for various screen sizes (desktop, tablet, and mobile).
+-   **FAQ Section**
 -   **Custom Tailwind Configuration:** The project uses a custom Tailwind CSS configuration to define a specific color palette (`scoreazyPrimary`, `scoreazySecondary`, etc.) and a custom font (`Inter`).
 
 ## Tech Stack
