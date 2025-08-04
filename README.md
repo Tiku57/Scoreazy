@@ -27,11 +27,11 @@ To view and run this project, simply open the `index.html` file in any web brows
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/scoreazy-landing-page.git](https://github.com/your-username/scoreazy-landing-page.git)
+    git clone [https://github.com/Tiku57/AadityaSattawan_WebDevAssignment.git](https://github.com/Tiku57/AadityaSattawan_WebDevAssignment.git)
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd scoreazy-landing-page
+    cd AadityaSattawan_WebDevAssignment
     ```
 3.  Open `index.html` in your preferred web browser.
 
@@ -44,8 +44,7 @@ The entire landing page is contained within a single `index.html` file.
 -   **`<main>`:** Divided into logical `<section>` elements for different parts of the page (Hero, Benefits, Subjects, Testimonials, CTA).
 -   **`<footer>`:** Includes copyright information and links to the Privacy Policy and Terms of Service.
 
-## Contact
+## 🙋‍♂️ Author
 
-For more information, visit the [Scoreazy website](http://www.scoreazy.com).
-
-_Note: The images used for the screenshots are placeholder content. The testimonial images are also placeholders._
+**Aaditya Sattawan**  
+[GitHub: @Tiku57](https://github.com/Tiku57)
